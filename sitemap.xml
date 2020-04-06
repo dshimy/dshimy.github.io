@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dshimy.dev/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dshimy.dev/articles/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dshimy.dev/tags/cloud-sql/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dshimy.dev/tags/gke/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dshimy.dev/articles/google-cloud-sql-rails-gke/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dshimy.dev/tags/k8s/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dshimy.dev/tags/mysql/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dshimy.dev/tags/rails/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dshimy.dev/tags/</loc>
+    <lastmod>2020-03-05T08:00:00-07:00</lastmod>
+  </url>
+  
+</urlset>

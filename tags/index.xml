@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on dshimy.dev</title>
+    <link>http://dshimy.dev/tags/</link>
+    <description>Recent content in Tags on dshimy.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 08:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://dshimy.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cloud sql</title>
+      <link>http://dshimy.dev/tags/cloud-sql/</link>
+      <pubDate>Thu, 05 Mar 2020 08:00:00 -0700</pubDate>
+      
+      <guid>http://dshimy.dev/tags/cloud-sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gke</title>
+      <link>http://dshimy.dev/tags/gke/</link>
+      <pubDate>Thu, 05 Mar 2020 08:00:00 -0700</pubDate>
+      
+      <guid>http://dshimy.dev/tags/gke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>http://dshimy.dev/tags/k8s/</link>
+      <pubDate>Thu, 05 Mar 2020 08:00:00 -0700</pubDate>
+      
+      <guid>http://dshimy.dev/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>http://dshimy.dev/tags/mysql/</link>
+      <pubDate>Thu, 05 Mar 2020 08:00:00 -0700</pubDate>
+      
+      <guid>http://dshimy.dev/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rails</title>
+      <link>http://dshimy.dev/tags/rails/</link>
+      <pubDate>Thu, 05 Mar 2020 08:00:00 -0700</pubDate>
+      
+      <guid>http://dshimy.dev/tags/rails/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

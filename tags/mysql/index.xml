@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mysql on dshimy.dev</title>
+    <link>http://dshimy.dev/tags/mysql/</link>
+    <description>Recent content in mysql on dshimy.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 08:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://dshimy.dev/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Cloud SQL with Rails 6 and GKE/K8S</title>
+      <link>http://dshimy.dev/articles/google-cloud-sql-rails-gke/</link>
+      <pubDate>Thu, 05 Mar 2020 08:00:00 -0700</pubDate>
+      
+      <guid>http://dshimy.dev/articles/google-cloud-sql-rails-gke/</guid>
+      <description>Learn how to connect your Rails 6 application to Google Cloud SQL (MySQL) in GKE/K8S.</description>
+    </item>
+    
+  </channel>
+</rss>
